@@ -10,7 +10,7 @@
     - M.Sc. Computing Science 
 *   **Zhejiang University**, China, 2009 - 2013
     - B.Eng. Computer Science
-*   **Simon Fraser University**, Canada, 2011 -€“ 2013 
+*   **Simon Fraser University**, Canada, 2011 - 2013 
     - B.Sc. Computing Science (CGPA 4.04, First Class with Distinction)
 
 ### SKILLS
@@ -22,13 +22,13 @@
 
 *   **Microsoft** (Bellevue, WA)
 
-    Software Development Engineer Intern, 2013.6 -€“ 2013.8 
+    Software Development Engineer Intern, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
     -   Windows phone app UI design and Web API
 
 *   **Facebook** (Menlo Park, CA)
 
-    Software Engineer Intern, 2012.5 -€“ 2012.8
+    Software Engineer Intern, 2012.5 - 2012.8
     -   Built a web application for potential fraud payment transactions analysis 
     -   Web development on PHP
 
