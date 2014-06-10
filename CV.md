@@ -6,7 +6,6 @@
 *   jiaxingl@sfu.ca 
 
 ### EDUCATION 
----------------
 
 *   **Simon Fraser University**, Canada, Jan.2014 - Aug. 2015 
     - M.Sc. Computing Science 
@@ -16,13 +15,11 @@
     - B.Sc. Computing Science (CGPA 4.04, First Class with Distinction)
 
 ### SKILLS
----------------
 
 *  Programming Language: C/C++, Python, R, Matlab
 *  Experienced in algorithm design and algorithm implementation
 
 ### WORK EXPERIENCE
----------------
 
 *   **Microsoft** (Bellevue, WA)
 
@@ -37,7 +34,6 @@
     -   Web development on PHP
 
 ### PROJECT
----------
 
 *   **Vertical Search Engine**
 
@@ -50,7 +46,6 @@
     -   Link: https://play.google.com/store/apps/details?id=com.applebird.wordlover
 
 ### ACADEMIC/AWARD
-----------
 
 -   Simon Fraser University Open Scholarship 
 -   Simon Fraser University President’s Honour Roll
