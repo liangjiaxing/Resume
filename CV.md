@@ -15,8 +15,8 @@
 
 ### SKILLS
 
-*  Programming Language: C/C++, Python, R, Matlab
-*  Experienced in algorithm design and algorithm implementation
+*   Programming Language: C/C++, Python, R, Matlab
+*   Experienced in algorithm design and algorithm implementation
 
 ### WORK EXPERIENCE
 
