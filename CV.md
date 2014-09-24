@@ -11,7 +11,7 @@
 *   **Zhejiang University**, China, 2009 - 2013
     -   B.Eng. Computer Science
 *   **Simon Fraser University**, Canada, 2011 - 2013 
-    -   B.Sc. Computing Science (CGPA 4.04, First Class with Distinction)
+    -   B.Sc. Computing Science (CGPA 4.04/4.33, First Class with Distinction)
 
 ### SKILLS
 
@@ -46,5 +46,6 @@
 *   Simon Fraser University President’s Honour Roll
 *   Bronze Medal (6th) in 2011, 2012, 2013 ACM-ICPC Pacific Northwest Regional 
 *   Gold Medal (13th) in 2010 ACM-ICPC Asia Regional, Tianjin, China
-*   William Lowell Putnam Competition 2013: Score 40, Rank 136
+*   William Lowell Putnam Competition 2013: Score 40, Rank 136/4113
+
 
