@@ -37,7 +37,7 @@
 
 *   **Word Lover** (An android app for the English learner)
 
-    -   Being downloaded over 10,000 times from Google Play (Rating 4.4)
+    -   Being downloaded over 10,000 times from Google Play
     -   Link: https://play.google.com/store/apps/details?id=com.applebird.wordlover
 
 ### ACADEMIC/AWARD
