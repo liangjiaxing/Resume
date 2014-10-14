@@ -7,11 +7,11 @@
 ### EDUCATION 
 
 *   **Simon Fraser University**, Canada, Jan.2014 - Aug. 2015 
-    -   M.Sc. Computing Science 
+    -   M.Sc. Computing Science (GPA 4.0/4.33)
 *   **Zhejiang University**, China, 2009 - 2013
     -   B.Eng. Computer Science
 *   **Simon Fraser University**, Canada, 2011 - 2013 
-    -   B.Sc. Computing Science (CGPA 4.04/4.33, First Class with Distinction)
+    -   B.Sc. Computing Science (GPA 4.04/4.33, First Class with Distinction)
 
 ### SKILLS
 
