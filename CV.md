@@ -7,7 +7,8 @@
 ### EDUCATION 
 
 *   **Simon Fraser University**, Canada, Jan.2014 - Aug. 2015 
-    -   M.Sc. Computing Science (GPA 4.0/4.33)
+    -   M.Sc. Computing Science. (GPA 4.0/4.33)
+	-	Advisors: Prof. Jian Pei
 *   **Zhejiang University**, China, 2009 - 2013
     -   B.Eng. Computer Science
 *   **Simon Fraser University**, Canada, 2011 - 2013 
@@ -30,6 +31,10 @@
 
 ### PROJECT
 
+*   **Skyline Subspace Query** (Research topic of my master thesis)
+	-   Distinguish one from its peers in social network in terms of skyline subspace
+	-	Extract valuable features from a certain business in terms of its spatial information
+
 *   **Vertical Search Engine**
 
     -   Efficient retrieval of relevant authors or papers based on user queries
@@ -47,5 +52,4 @@
 *   Bronze Medal (6th) in 2011, 2012, 2013 ACM-ICPC Pacific Northwest Regional 
 *   Gold Medal (13th) in 2010 ACM-ICPC Asia Regional, Tianjin, China
 *   William Lowell Putnam Competition 2013: Score 40, Rank 136/4113
-
 
