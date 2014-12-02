@@ -32,8 +32,8 @@
 ### PROJECT
 
 *   **Skyline Subspace Query** (Research topic of my master thesis)
-	-   Distinguish one from its peers in social network in terms of skyline subspace
-	-	Extract valuable features from a certain business in terms of its spatial information
+    -   Distinguish one from its peers in social network in terms of skyline subspace
+    -	Extract valuable features from a certain business in terms of its spatial information
 
 *   **Vertical Search Engine**
 
