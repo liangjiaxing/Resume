@@ -19,7 +19,7 @@
 *   Programming Language: C/C++, Python, Matlab, Java
 *   Experienced in algorithm design and algorithm implementation
 
-### Internship
+### INTERNSHIPS
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
@@ -31,7 +31,7 @@
     -   Web development on PHP
     -   The web tool help make manual fraud checking much easier.
 
-### PROJECT
+### PROJECTS
 
 *   **Skyline Subspace Query** (Research topic of my master thesis)
     -   Distinguish one from its peers in social network in terms of skyline subspace
@@ -47,7 +47,7 @@
     -   Being downloaded over 10,000 times from Google Play
     -   Link: https://play.google.com/store/apps/details?id=com.applebird.wordlover
 
-### ACADEMIC/AWARD
+### AWARDS
 
 *   Simon Fraser University Open Scholarship 
 *   Simon Fraser University President’s Honour Roll
