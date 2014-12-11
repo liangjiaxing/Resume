@@ -24,12 +24,12 @@
 *   **Microsoft** (Display Ads Team) **Software Development Engineer**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
     -   Windows phone app UI design and Web API
-    -   The App help Microsoft customer improve the their ads quality.
+    -   The App helped Microsoft customer improve the their ads quality.
 
 *   **Facebook** (Payment Team) **Software Engineer**, 2012.5 - 2012.8
     -   Built a web tool for potential fraud payment transactions analysis 
     -   Web development on PHP
-    -   The web tool help make manual fraud checking much easier.
+    -   The web tool made manual fraud checking much easier.
 
 ### PROJECTS
 
