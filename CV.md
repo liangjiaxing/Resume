@@ -8,7 +8,7 @@
 
 *   **Simon Fraser University**, Canada, Jan.2014 - Aug. 2015 
     -   M.Sc. Computing Science. (GPA 4.0/4.33)
-	-	Advisors: Prof. Jian Pei
+	-   Advisors: Prof. Jian Pei
 *   **Zhejiang University**, China, 2009 - 2013
     -   B.Eng. Computer Science
 *   **Simon Fraser University**, Canada, 2011 - 2013 
@@ -24,10 +24,12 @@
 *   **Microsoft** (Display Ads Team) **Software Development Engineer**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
     -   Windows phone app UI design and Web API
+    -   The App help Microsoft customer improve the their ads quality.
 
 *   **Facebook** (Payment Team) **Software Engineer**, 2012.5 - 2012.8
-    -   Built a web application for potential fraud payment transactions analysis 
+    -   Built a web tool for potential fraud payment transactions analysis 
     -   Web development on PHP
+    -   The web tool help make manual fraud checking much easier.
 
 ### PROJECT
 
