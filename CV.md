@@ -8,7 +8,7 @@
 
 *   **Simon Fraser University**, Canada, Jan.2014 - Aug. 2015 
     -   M.Sc. Computing Science. (GPA 4.0/4.33)
-	-   Advisors: Prof. Jian Pei
+	-   Advisor: Prof. Jian Pei
 *   **Zhejiang University**, China, 2009 - 2013
     -   B.Eng. Computer Science
 *   **Simon Fraser University**, Canada, 2011 - 2013 
