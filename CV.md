@@ -19,7 +19,7 @@
 *   Programming Language: C/C++, Python, Matlab, Java
 *   Experienced in algorithm design and algorithm implementation
 
-### WORK EXPERIENCE
+### WORK EXPERIENCES
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
