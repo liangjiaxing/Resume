@@ -19,6 +19,10 @@
 *   Experienced in algorithm design and algorithm implementation
 
 ### WORK EXPERIENCES
+*   **Snowflake Computing** (Cloud Data Warehouse)
+    -   Building a Cloud Data Warehouse with multi-cluster, shared data architecture.
+    -   Working on data loading and connector parts of the data warehouse service.
+    -   Help customers load their into Snowflake more easily.
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
