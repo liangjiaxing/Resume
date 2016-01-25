@@ -20,7 +20,7 @@
 *   Distributed and parallel computing.
 
 ### WORK EXPERIENCES
-*   **Snowflake Computing** (Cloud Data Warehouse) **Software Development Engineer**, 2015.10 - present
+*   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
     -   Building a Cloud Data Warehouse with multi-cluster, shared data architecture.
     -   Working on data loading and connector parts of the data warehouse service.
     -   Help customers load their into Snowflake more easily.
