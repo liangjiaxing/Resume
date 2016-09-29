@@ -1,8 +1,8 @@
 ## Jiaxing Liang
 
-*   +1-778-838-3286
+*   +1-650-445-9092
 
-*   jiaxingl@sfu.ca 
+*   liangjiaxing57@gmail.com
 
 ### EDUCATION 
 
