@@ -21,9 +21,9 @@
 
 ### WORK EXPERIENCES
 *   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
-    -   COPY command: provide the capability for users to load files to Snowflake from AWS S3
+    -   COPY command: give users the ability to load files from AWS S3 to Snowflake
     -   Asynchronous loading service: compute resources manager for data loading
-    -   ODBC driver on OS X: Standard API for users to access Snowflake using C/C++
+    -   ODBC driver on OS X: standard API for users to access Snowflake using C/C++
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer Intern**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
