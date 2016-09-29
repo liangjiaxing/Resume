@@ -46,11 +46,6 @@
     -   Efficient retrieval of relevant authors or papers based on user queries
     -   Spelling correctors based on probabilistic model
 
-*   **Word Lover** (An android app for the English learner)
-
-    -   Being downloaded over 10,000 times from Google Play
-    -   Link: https://play.google.com/store/apps/details?id=com.applebird.wordlover
-
 ### AWARDS
 
 *   6th place in 2011, 2012, 2013 ACM-ICPC Pacific Northwest Regional 
