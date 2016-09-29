@@ -23,7 +23,7 @@
 *   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
     -   COPY command: give users the ability to load files from AWS S3 to Snowflake
     -   Asynchronous loading service: compute resources manager for data loading
-    -   ODBC driver on OS X: standard API for users to access Snowflake using C/C++
+    -   ODBC driver on OS X: standard API for C/C++ programmers to access Snowflake
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer Intern**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
