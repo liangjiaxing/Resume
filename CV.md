@@ -53,9 +53,7 @@
 
 ### AWARDS
 
-*   Simon Fraser University Open Scholarship 
-*   Simon Fraser University President’s Honour Roll
-*   Bronze Medal (6/110) in 2011, 2012, 2013 ACM-ICPC Pacific Northwest Regional 
+*   6th place in 2011, 2012, 2013 ACM-ICPC Pacific Northwest Regional 
 *   Gold Medal (13/110) in 2010 ACM-ICPC Asia Regional, Tianjin, China
 *   William Lowell Putnam Competition 2013: Score 40, Rank 136/4113
 
