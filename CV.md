@@ -17,7 +17,7 @@
 
 *   Programming Language: C/C++, Python, Matlab, Java
 *   Experienced in algorithm design and algorithm implementation
-*   Distributed system and Java concurrency.
+*   Distributed system and concurrent programming.
 
 ### WORK EXPERIENCES
 *   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
