@@ -21,20 +21,21 @@
 
 ### WORK EXPERIENCES
 *   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
-    -   COPY command: give users the ability to load files from AWS S3 to Snowflake
-    -   Asynchronous loading service: compute resources manager for data loading
+    -   Stream loading service: 
+        - Compute resources management for data loading
+        - Crash recovery: make sure the system always recovers to a valid state
+    -   COPY command:
+        - Give users the ability to load files from AWS S3 to Snowflake
+        - Improve the metadata management to reduce the workload on metastore
     -   ODBC driver on OS X: standard API for C/C++ programmers to access Snowflake
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer Intern**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
-    -   Windows phone app UI design and Web API
-    -   The App helped Microsoft customer improve the their ads quality.
+    -   Windows phone app UI design and implementation of web API
 
 *   **Facebook** (Payment Team) **Software Engineer Intern**, 2012.5 - 2012.8
-    -   Built a web tool for potential fraud payment transactions analysis 
-    -   Web development on PHP
-    -   The web tool made manual fraud checking much easier.
-
+    -   Built a web tool for potential fraud payment transactions analysis in PHP
+    
 ### PROJECTS
 
 *   **Skyline Subspace Query** (Research topic of my master thesis)
