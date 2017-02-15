@@ -15,19 +15,20 @@
 
 ### SKILLS
 
-*   Programming Language: C/C++, Python, Matlab, Java
-*   Experienced in algorithm design and algorithm implementation
-*   Distributed system and concurrent programming.
+*   Programming Language: Java, C/C++, Python
+*   Distributed system: work on a 24hour-on, fault tolorent, auto-scale stream loading service
+*   Concurrent programming in Java.
 
 ### WORK EXPERIENCES
+
 *   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
     -   Stream loading service: 
-        - Compute resources management for data loading
+        - Compute resources management for dynamic workload
         - Crash recovery: make sure the system always recovers to a valid state
-    -   COPY command:
-        - Give users the ability to load files from AWS S3 to Snowflake
+    -   DML command (COPY INTO table):
+        - Give users the ability to load files from AWS S3 to Snowflake Data Warehouse
         - Improve the metadata management to reduce the workload on metastore
-    -   ODBC driver on OS X: standard API for C/C++ programmers to access Snowflake
+    -   ODBC driver on OS X: standard API for C/C++ programmers to access Snowflake DW
 
 *   **Microsoft** (Display Ads Team) **Software Development Engineer Intern**, 2013.6 - 2013.8 
     -   Built a windows phone app for tracking the information of advertising campaigns
@@ -43,12 +44,11 @@
     -	Extract valuable features from a certain business in terms of its spatial information
 
 *   **Vertical Search Engine**
-
     -   Efficient retrieval of relevant authors or papers based on user queries
     -   Spelling correctors based on probabilistic model
 
 ### AWARDS
-
+*   Ranked 172 in Google Distributed Code Jam 2016
 *   6th place in 2011, 2012, 2013 ACM-ICPC Pacific Northwest Regional 
 *   Gold Medal (13/110) in 2010 ACM-ICPC Asia Regional, Tianjin, China
 *   William Lowell Putnam Competition 2013: Score 40, Rank 136/4113
