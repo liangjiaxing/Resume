@@ -36,16 +36,6 @@
 
 *   **Facebook** (Payment Team) **Software Engineer Intern**, 2012.5 - 2012.8
     -   Built a web tool for potential fraud payment transactions analysis in PHP
-    
-### PROJECTS
-
-*   **Skyline Subspace Query** (Research topic of my master thesis)
-    -   Distinguish one from its peers in social network in terms of skyline subspace
-    -	Extract valuable features from a certain business in terms of its spatial information
-
-*   **Vertical Search Engine**
-    -   Efficient retrieval of relevant authors or papers based on user queries
-    -   Spelling correctors based on probabilistic model
 
 ### AWARDS
 *   Ranked 172 in Google Distributed Code Jam 2016
