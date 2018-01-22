@@ -25,7 +25,7 @@
         - Compute resources management for dynamic workload
         - Crash recovery: make sure the system always recovers from a valid state
         - Build the billing system for the multi-tenant streaming data ingestion service
-        - Continous data defragmentation service
+        - Continous data defragmentation service
     -   DML command (COPY INTO table):
         - Give users the ability to load files from AWS S3 to Snowflake Data Warehouse
         - Improve the metadata management to reduce the workload on metastore
