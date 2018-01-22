@@ -21,7 +21,7 @@
 ### WORK EXPERIENCES
 
 *   **Snowflake Computing** (Cloud Data Warehouse) **Software Engineer**, 2015.10 - present
-    -   Snowpipe: Stream loading service
+    -   Snowpipe: Streaming data loading service
         - Compute resources management for dynamic workload
         - Crash recovery: make sure the system always recovers from a valid state
         - Build the billing system for the multi-tenant streaming data ingestion service
