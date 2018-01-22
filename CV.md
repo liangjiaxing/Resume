@@ -25,7 +25,7 @@
         - Compute resources management for dynamic workload
         - Crash recovery: make sure the system always recovers from a valid state
         - Build the billing system for the multi-tenant streaming data ingestion service
-        - Continous data defragmentation service
+        - Continuous data defragmentation service
     -   DML command (COPY INTO table):
         - Give users the ability to load files from AWS S3 to Snowflake Data Warehouse
         - Improve the metadata management to reduce the workload on metastore
@@ -45,9 +45,9 @@
 ### OPEN SOURCE CONTRIBUTION
 
 *   **TiDB** distributed HTAP database https://github.com/pingcap/tidb **Contributor**, 2017.8 - present
-    -   SQL builtin function:
+    -   SQL built-in function:
         - Support decimal representation of date for DATE_FORMAT function #4230
-        - Implement TIME_FORMAT functon #3967
+        - Implement TIME_FORMAT function #3967
 
 ### AWARDS
 *   Ranked 172 in Google Distributed Code Jam 2016
