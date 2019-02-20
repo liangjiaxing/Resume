@@ -26,12 +26,10 @@
         - Crash recovery: make sure the system always recovers from a valid state
         - Build the billing system for the multi-tenant streaming data ingestion service
         - Continuous data defragmentation service
-    -   DML command (COPY INTO table):
-        - Give users the ability to load files from AWS S3 to Snowflake Data Warehouse
+    -   COPY command
         - Improve the metadata management to reduce the workload on metastore
         - Help summer intern to build ORC file data loading support
         - Help summer intern to build bz2, zstd, brotli files loading and unloading support
-        - Maintain the code for parquet file data loading
 
     -   ODBC driver on OS X: standard API for C/C++ programmers to access Snowflake DW
 
